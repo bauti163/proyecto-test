@@ -1,5 +1,4 @@
 # proyecto-test
-
 <h1 align="center">Hi 👋, I'm Bautista Esposito</h1>
 <h3 align="center">Busco desarrollarme como full stack developer y adquirir el mayor aprendizaje que pueda</h3>
 
@@ -13,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bautista esposito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bautista esposito" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bautista-esposito-3810251a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bautista-esposito-3810251a0/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
